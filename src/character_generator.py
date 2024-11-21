@@ -1,6 +1,5 @@
 import random
 
-
 # Define race and class options
 race_classes = {
     'Human': ['Mage', 'Warlock', 'Warrior', 'Priest', 'Paladin', 'Rogue'],
